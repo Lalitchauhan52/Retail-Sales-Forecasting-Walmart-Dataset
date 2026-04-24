@@ -143,6 +143,10 @@ pytest tests/
 
 ---
 
+<p>Co-Author  <a href="https://github.com/Manthan-gupta-21906">Manthan Gupta</a></p>
+
+---
+
 ⭐️ If you like this project, please give it a star on GitHub!
 
 ---
